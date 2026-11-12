@@ -1,0 +1,51 @@
+Issue_Type,Lead_ID,Opportunity_ID,Affected_Record_ID,Details
+opted_out_lead_contacted,LEAD-2026-000007,,TASK-LEAD-2026-000007-999,Task created 2 days after lead opted out
+opted_out_lead_contacted,LEAD-2026-000021,,TASK-LEAD-2026-000021-999,Task created 2 days after lead opted out
+opted_out_lead_contacted,LEAD-2026-000043,,TASK-LEAD-2026-000043-999,Task created 2 days after lead opted out
+opted_out_lead_contacted,LEAD-2026-000051,,TASK-LEAD-2026-000051-999,Task created 2 days after lead opted out
+opted_out_lead_contacted,LEAD-2026-000063,,TASK-LEAD-2026-000063-999,Task created 2 days after lead opted out
+opted_out_lead_contacted,LEAD-2026-000085,,TASK-LEAD-2026-000085-999,Task created 2 days after lead opted out
+opted_out_lead_contacted,LEAD-2026-000102,,TASK-LEAD-2026-000102-999,Task created 2 days after lead opted out
+opted_out_lead_contacted,LEAD-2026-000103,,TASK-LEAD-2026-000103-999,Task created 2 days after lead opted out
+opted_out_lead_contacted,LEAD-2026-000113,,TASK-LEAD-2026-000113-999,Task created 2 days after lead opted out
+opted_out_lead_contacted,LEAD-2026-000114,,TASK-LEAD-2026-000114-999,Task created 2 days after lead opted out
+score_uses_post_conversion_event,LEAD-2026-007990,OPP-2026-000001,ACT-LEAD-2026-007990-999,Activity occurred after Opportunity creation and was added to Lead_Score
+score_uses_post_conversion_event,LEAD-2026-002353,OPP-2026-000002,ACT-LEAD-2026-002353-999,Activity occurred after Opportunity creation and was added to Lead_Score
+score_uses_post_conversion_event,LEAD-2026-006931,OPP-2026-000003,ACT-LEAD-2026-006931-999,Activity occurred after Opportunity creation and was added to Lead_Score
+score_uses_post_conversion_event,LEAD-2026-014464,OPP-2026-000004,ACT-LEAD-2026-014464-999,Activity occurred after Opportunity creation and was added to Lead_Score
+score_uses_post_conversion_event,LEAD-2026-000610,OPP-2026-000005,ACT-LEAD-2026-000610-999,Activity occurred after Opportunity creation and was added to Lead_Score
+score_uses_post_conversion_event,LEAD-2026-009184,OPP-2026-000006,ACT-LEAD-2026-009184-999,Activity occurred after Opportunity creation and was added to Lead_Score
+score_uses_post_conversion_event,LEAD-2026-002065,OPP-2026-000007,ACT-LEAD-2026-002065-999,Activity occurred after Opportunity creation and was added to Lead_Score
+score_uses_post_conversion_event,LEAD-2026-002934,OPP-2026-000008,ACT-LEAD-2026-002934-999,Activity occurred after Opportunity creation and was added to Lead_Score
+score_uses_post_conversion_event,LEAD-2026-010657,OPP-2026-000009,ACT-LEAD-2026-010657-999,Activity occurred after Opportunity creation and was added to Lead_Score
+score_uses_post_conversion_event,LEAD-2026-016734,OPP-2026-000010,ACT-LEAD-2026-016734-999,Activity occurred after Opportunity creation and was added to Lead_Score
+lead_assigned_outside_territory,LEAD-2026-000001,,REP-000001,EMEA lead routed to NA sales representative
+lead_assigned_outside_territory,LEAD-2026-000003,,REP-000001,EMEA lead routed to NA sales representative
+lead_assigned_outside_territory,LEAD-2026-000013,,REP-000001,EMEA lead routed to NA sales representative
+lead_assigned_outside_territory,LEAD-2026-000015,,REP-000001,EMEA lead routed to NA sales representative
+lead_assigned_outside_territory,LEAD-2026-000020,,REP-000001,EMEA lead routed to NA sales representative
+lead_assigned_outside_territory,LEAD-2026-000042,,REP-000001,EMEA lead routed to NA sales representative
+lead_assigned_outside_territory,LEAD-2026-000048,,REP-000001,EMEA lead routed to NA sales representative
+lead_assigned_outside_territory,LEAD-2026-000055,,REP-000001,EMEA lead routed to NA sales representative
+lead_assigned_outside_territory,LEAD-2026-000058,,REP-000001,EMEA lead routed to NA sales representative
+lead_assigned_outside_territory,LEAD-2026-000077,,REP-000001,EMEA lead routed to NA sales representative
+duplicate_creates_duplicate_opportunity,LEAD-2026-020001,OPP-2026-003001,LEAD-2026-000581,Duplicate of LEAD-2026-000581 via typo email (robert.elliott.dup@yahoo.com) spawned duplicate opportunity
+duplicate_creates_duplicate_opportunity,LEAD-2026-020002,OPP-2026-003002,LEAD-2026-014863,Duplicate of LEAD-2026-014863 via typo email (ashley.buckley.dup@gmail.com) spawned duplicate opportunity
+duplicate_creates_duplicate_opportunity,LEAD-2026-020003,OPP-2026-003003,LEAD-2026-014461,Duplicate of LEAD-2026-014461 via typo email (susan.hernandez.dup@yahoo.com) spawned duplicate opportunity
+duplicate_creates_duplicate_opportunity,LEAD-2026-020004,OPP-2026-003004,LEAD-2026-000017,Duplicate of LEAD-2026-000017 via typo email (sarah.salinas.dup@gmail.com) spawned duplicate opportunity
+duplicate_creates_duplicate_opportunity,LEAD-2026-020005,OPP-2026-003005,LEAD-2026-012814,Duplicate of LEAD-2026-012814 via typo email (gary.boyer.dup@gmail.com) spawned duplicate opportunity
+duplicate_creates_duplicate_opportunity,LEAD-2026-020006,OPP-2026-003006,LEAD-2026-019231,Duplicate of LEAD-2026-019231 via typo email (kara.ball.dup@yahoo.com) spawned duplicate opportunity
+duplicate_creates_duplicate_opportunity,LEAD-2026-020007,OPP-2026-003007,LEAD-2026-006981,Duplicate of LEAD-2026-006981 via typo email (james.wood.dup@yahoo.com) spawned duplicate opportunity
+duplicate_creates_duplicate_opportunity,LEAD-2026-020008,OPP-2026-003008,LEAD-2026-014760,Duplicate of LEAD-2026-014760 via typo email (larry.lane.dup@hotmail.com) spawned duplicate opportunity
+duplicate_creates_duplicate_opportunity,LEAD-2026-020009,OPP-2026-003009,LEAD-2026-018152,Duplicate of LEAD-2026-018152 via typo email (keith.daniels.dup@yahoo.com) spawned duplicate opportunity
+duplicate_creates_duplicate_opportunity,LEAD-2026-020010,OPP-2026-003010,LEAD-2026-019691,Duplicate of LEAD-2026-019691 via typo email (nicole.woods.dup@hotmail.com) spawned duplicate opportunity
+stage_history_has_gaps,LEAD-2026-001264,OPP-2026-000021,OPP-2026-000021,StageHistory skipped Demo and Negotiation (Discovery -> Closed Won)
+stage_history_has_gaps,LEAD-2026-004839,OPP-2026-000022,OPP-2026-000022,StageHistory skipped Demo and Negotiation (Discovery -> Closed Won)
+stage_history_has_gaps,LEAD-2026-012536,OPP-2026-000023,OPP-2026-000023,StageHistory skipped Demo and Negotiation (Discovery -> Closed Won)
+stage_history_has_gaps,LEAD-2026-014103,OPP-2026-000024,OPP-2026-000024,StageHistory skipped Demo and Negotiation (Discovery -> Closed Won)
+stage_history_has_gaps,LEAD-2026-014371,OPP-2026-000025,OPP-2026-000025,StageHistory skipped Demo and Negotiation (Discovery -> Closed Won)
+stage_history_has_gaps,LEAD-2026-016281,OPP-2026-000026,OPP-2026-000026,StageHistory skipped Demo and Negotiation (Discovery -> Closed Won)
+stage_history_has_gaps,LEAD-2026-002763,OPP-2026-000027,OPP-2026-000027,StageHistory skipped Demo and Negotiation (Discovery -> Closed Won)
+stage_history_has_gaps,LEAD-2026-003099,OPP-2026-000028,OPP-2026-000028,StageHistory skipped Demo and Negotiation (Discovery -> Closed Won)
+stage_history_has_gaps,LEAD-2026-003138,OPP-2026-000029,OPP-2026-000029,StageHistory skipped Demo and Negotiation (Discovery -> Closed Won)
+stage_history_has_gaps,LEAD-2026-004158,OPP-2026-000030,OPP-2026-000030,StageHistory skipped Demo and Negotiation (Discovery -> Closed Won)

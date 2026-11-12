@@ -1,0 +1,12 @@
+Rule_ID,Category,Condition,Points
+RULE-001,Fit,CEO,20
+RULE-002,Fit,VP of Sales,15
+RULE-003,Fit,Marketing Director,10
+RULE-004,Fit,Software Engineer,5
+RULE-005,Fit,HR Manager,5
+RULE-006,Fit,Intern,0
+RULE-007,Engagement,Opened Email,2
+RULE-008,Engagement,Clicked Link,5
+RULE-009,Intent,Downloaded PDF,10
+RULE-010,Intent,Viewed Pricing,15
+RULE-011,Intent,Requested Demo,50
