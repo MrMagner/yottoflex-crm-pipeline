@@ -1,6 +1,6 @@
 # AI Usage Disclosure, Prompt History & Engineering Reasoning
 
-This document outlines how AI tools were utilized during the 72-hour challenge window, provides access to the prompt history, and details the manual debugging, validation, and architectural decisions made to ensure a reliable, reproducible pipeline.
+This document outlines how AI tools were utilized during the 72-hour challenge window, provides access to the details the manual debugging, validation, and architectural decisions made to ensure a reliable, reproducible pipeline.
 
 ---
 
